@@ -9,7 +9,7 @@ The objective is to predict whether a U.S. sector ETF will outperform SPY in the
 **Implemented by:** Jackson Wang  
 **Model:** Gradient Boosting Classifier
 
-This repository only includes my Gradient Boosting work and the data preparation steps needed to reproduce that model. It does not include other group members' model implementations.
+This repository includes my Gradient Boosting work and the data preparation steps needed to reproduce that model.
 
 ## Project overview
 
